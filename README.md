@@ -1,4 +1,7 @@
-## Hey
+## Hey 
+
+I am Cameron "Cam" Wade.<br>
+I play stand-in actor at Security Threatre.
 
 <!--
 **cbztech/cbztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
